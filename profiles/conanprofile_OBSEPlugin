@@ -9,6 +9,5 @@ compiler.version=15
 compiler.toolset=v141
 build_type=Debug
 [options]
-source_code=False
 [build_requires]
 [env]
